@@ -1,0 +1,3 @@
+nombre=ander algo
+propiedades=alguna
+altura=1.70
